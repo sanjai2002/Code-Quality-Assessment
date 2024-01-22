@@ -1,0 +1,14 @@
+﻿D:\microservices\Sanjai H-Movie Management System\CreateApi\Controllers\MovieController.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Data\Appdbcontext.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Migrations\20231226035556_movie management.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Migrations\20231226035556_movie management.Designer.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Migrations\AppdbcontextModelSnapshot.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Moviemodel.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Program.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\obj\Debug\net7.0\CreateApi.GlobalUsings.g.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\obj\Debug\net7.0\CreateApi.AssemblyInfo.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\obj\Debug\net7.0\CreateApi.MvcApplicationPartsAssemblyInfo.cs
+D:\microservices\Sanjai H-Movie Management System\CreateApi\appsettings.Development.json
+D:\microservices\Sanjai H-Movie Management System\CreateApi\appsettings.json
+D:\microservices\Sanjai H-Movie Management System\CreateApi\Properties\launchSettings.json

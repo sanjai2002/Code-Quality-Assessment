@@ -1,0 +1,1 @@
+D:\microservices\Sanjai H-Movie Management System\CreateApi\.sonarqube\out\0
